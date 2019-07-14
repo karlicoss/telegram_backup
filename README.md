@@ -50,6 +50,9 @@ more-or-less nice to look at HTML files containing all your chats. They will
 be created in the subfolder `files` of your backup. You can just open the
 file index.html in your browser to look at the files.
 
+## Building
+`./gradlew jar` (might need to run twice?)
+
 ## Donations
 I've put quite some time into this tool. If you want to donate a small
 amount, you can send it via Bitcoin to *1CofYzS88iEngxMu4NqQeohWDBUHv9CNDJ* or via PayPal to
